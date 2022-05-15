@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashhashhrrreee
 - 👀 I’m interested in Artificial Intelligence, Cloud & Web development 
-- 🌱 I’m currently learning Tensorflow, and java 
+- 🌱 I’m currently learning Python(advance libraries)
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me 
 - Email: yashashree.bedmutha@gmail.com
