@@ -126,7 +126,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=yashhashhrrreee&&style=flat-square" align="center" />
 </div>  
   
 
