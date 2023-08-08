@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yashashree, a second year student studying Btech with Artificial Intelligence with Data Science at Vishwakarma University </div>  
+### <div align="center">I'm Yashashree, a Third year student studying Btech with Artificial Intelligence with Data Science at Vishwakarma University </div>  
   
 
 - 🔭 I’m currently a Google Developer Student Club Design lead   
